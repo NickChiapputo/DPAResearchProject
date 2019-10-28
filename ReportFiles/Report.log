@@ -1,0 +1,970 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.3.18)  23 OCT 2019 18:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Report.tex
+(./Report.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen126
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen127
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks16
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks17
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\c@ALC@unique=\count106
+\c@ALC@line=\count107
+\c@ALC@rem=\count108
+\c@ALC@depth=\count109
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count111
+\float@exts=\toks21
+\float@box=\box30
+\@float@everytoks=\toks22
+\@floatcapt=\box31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/01/19 v6377 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
+L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+L3 Module: l3str 2016/01/03 v6357 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/01/05 v6366 L3 Integers
+\c_max_int=\count112
+\l_tmpa_int=\count113
+\l_tmpb_int=\count114
+\g_tmpa_int=\count115
+\g_tmpb_int=\count116
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count117
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
+\l_iow_line_count_int=\count118
+\l__iow_target_count_int=\count119
+\l__iow_current_line_int=\count120
+\l__iow_current_word_int=\count121
+\l__iow_current_indentation_int=\count122
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+\c_zero_dim=\dimen137
+\c_max_dim=\dimen138
+\l_tmpa_dim=\dimen139
+\l_tmpb_dim=\dimen140
+\g_tmpa_dim=\dimen141
+\g_tmpb_dim=\dimen142
+\c_zero_skip=\skip49
+\c_max_skip=\skip50
+\l_tmpa_skip=\skip51
+\l_tmpb_skip=\skip52
+\g_tmpa_skip=\skip53
+\g_tmpb_skip=\skip54
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count123
+\l_keys_choice_int=\count124
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
+\c__fp_leading_shift_int=\count125
+\c__fp_middle_shift_int=\count126
+\c__fp_trailing_shift_int=\count127
+\c__fp_big_leading_shift_int=\count128
+\c__fp_big_middle_shift_int=\count129
+\c__fp_big_trailing_shift_int=\count130
+\c__fp_Bigg_leading_shift_int=\count131
+\c__fp_Bigg_middle_shift_int=\count132
+\c__fp_Bigg_trailing_shift_int=\count133
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box32
+\l_tmpa_box=\box33
+\l_tmpb_box=\box34
+\g_tmpa_box=\box35
+\g_tmpb_box=\box36
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
+\l__coffin_internal_box=\box37
+\l__coffin_internal_dim=\dimen143
+\l__coffin_offset_x_dim=\dimen144
+\l__coffin_offset_y_dim=\dimen145
+\l__coffin_x_dim=\dimen146
+\l__coffin_y_dim=\dimen147
+\l__coffin_x_prime_dim=\dimen148
+\l__coffin_y_prime_dim=\dimen149
+\c_empty_coffin=\box38
+\l__coffin_aligned_coffin=\box39
+\l__coffin_aligned_internal_coffin=\box40
+\l_tmpa_coffin=\box41
+\l_tmpb_coffin=\box42
+\l__coffin_display_coffin=\box43
+\l__coffin_display_coord_coffin=\box44
+\l__coffin_display_pole_coffin=\box45
+\l__coffin_display_offset_dim=\dimen150
+\l__coffin_display_x_dim=\dimen151
+\l__coffin_display_y_dim=\dimen152
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen153
+\l__box_bottom_dim=\dimen154
+\l__box_left_dim=\dimen155
+\l__box_right_dim=\dimen156
+\l__box_top_new_dim=\dimen157
+\l__box_bottom_new_dim=\dimen158
+\l__box_left_new_dim=\dimen159
+\l__box_right_new_dim=\dimen160
+\l__box_internal_box=\box46
+\l__coffin_bounding_shift_dim=\dimen161
+\l__coffin_left_corner_dim=\dimen162
+\l__coffin_right_corner_dim=\dimen163
+\l__coffin_bottom_corner_dim=\dimen164
+\l__coffin_top_corner_dim=\dimen165
+\l__coffin_scaled_total_height_dim=\dimen166
+\l__coffin_scaled_width_dim=\dimen167
+L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2015/11/11 v6250 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count134
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count135
+\l__xparse_m_args_int=\count136
+\l__xparse_mandatory_args_int=\count137
+\l__xparse_processor_int=\count138
+\l__xparse_v_nesting_int=\count139
+)
+Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen168
+\extrarowheight=\dimen169
+\NC@list=\toks23
+\extratabsurround=\skip55
+\backup@length=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2016/01/19 v6377 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box47
+\l__siunitx_tmp_dim=\dimen170
+\l__siunitx_tmp_int=\count140
+\l__siunitx_number_mantissa_length_int=\count141
+\l__siunitx_number_uncert_length_int=\count142
+\l__siunitx_round_int=\count143
+\l__siunitx_process_decimal_int=\count144
+\l__siunitx_process_uncertainty_int=\count145
+\l__siunitx_process_fixed_int=\count146
+\l__siunitx_process_integer_min_int=\count147
+\l__siunitx_process_precision_int=\count148
+\l__siunitx_group_min_int=\count149
+\l__siunitx_angle_marker_box=\box48
+\l__siunitx_angle_unit_box=\box49
+\l__siunitx_angle_marker_dim=\dimen171
+\l__siunitx_angle_unit_dim=\dimen172
+\l__siunitx_unit_int=\count150
+\l__siunitx_unit_denominator_int=\count151
+\l__siunitx_unit_numerator_int=\count152
+\l__siunitx_unit_prefix_int=\count153
+\l__siunitx_unit_prefix_base_int=\count154
+\l__siunitx_unit_prefix_gram_int=\count155
+\l__siunitx_number_product_int=\count156
+\c__siunitx_one_fill_skip=\skip57
+\l__siunitx_table_unit_align_skip=\skip58
+\l__siunitx_table_exponent_dim=\dimen173
+\l__siunitx_table_integer_dim=\dimen174
+\l__siunitx_table_mantissa_dim=\dimen175
+\l__siunitx_table_marker_dim=\dimen176
+\l__siunitx_table_result_dim=\dimen177
+\l__siunitx_table_uncert_dim=\dimen178
+\l__siunitx_table_fill_pre_dim=\dimen179
+\l__siunitx_table_fill_post_dim=\dimen180
+\l__siunitx_table_fill_mid_dim=\dimen181
+\l__siunitx_table_pre_box=\box50
+\l__siunitx_table_post_box=\box51
+\l__siunitx_table_mantissa_box=\box52
+\l__siunitx_table_result_box=\box53
+\l__siunitx_table_number_align_skip=\skip59
+\l__siunitx_table_text_align_skip=\skip60
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7218.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7221.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7224.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7227.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7230.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7233.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7236.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7251.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7260.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7269.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7278.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7290.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7302.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7314.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7317.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7332.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7344.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7391.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
+. 7393.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7395.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7397.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
+. 7399.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7400.
+.................................................
+\g__file_internal_ior=\read1
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-
+mappings.tex))) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count157
+\Gm@cntv=\count158
+\c@Gm@tempcnt=\count159
+\Gm@bindingoffset=\dimen182
+\Gm@wd@mp=\dimen183
+\Gm@odd@mp=\dimen184
+\Gm@even@mp=\dimen185
+\Gm@layoutwidth=\dimen186
+\Gm@layoutheight=\dimen187
+\Gm@layouthoffset=\dimen188
+\Gm@layoutvoffset=\dimen189
+\Gm@dimlist=\toks24
+)
+(ReportFiles/Report.aux)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+-- Lines per column: 46 (approximate, difference = 10.11009pt).
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count160
+\scratchdimen=\dimen190
+\scratchbox=\box54
+\nofMPsegments=\count161
+\nofMParguments=\count162
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count163
+\MPscratchDim=\dimen191
+\MPnumerator=\count164
+\makeMPintoPDFobject=\count165
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
+ic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-30.60963pt
+* \headheight=12.0pt
+* \headsep=18.60963pt
+* \topskip=13.92pt
+* \footskip=42.27637pt
+* \marginparwidth=20.0pt
+* \marginparsep=10.0pt
+* \columnsep=12.0pt
+* \skip\footins=12.52791pt plus 5.5679pt minus 2.78395pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c__siunitx_mathsf_int=\count166
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\c__siunitx_mathtt_int=\count167
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+
+<ReportFiles/SPA.png, id=1, 1192.455pt x 411.03563pt>
+File: ReportFiles/SPA.png Graphic file (type png)
+
+<use ReportFiles/SPA.png>
+Package pdftex.def Info: ReportFiles/SPA.png used on input line 40.
+(pdftex.def)             Requested size: 228.8775pt x 78.8941pt.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+] <ReportFiles/DPA.png, id=8, 755.07094pt x 655.69969pt>
+File: ReportFiles/DPA.png Graphic file (type png)
+
+<use ReportFiles/DPA.png>
+Package pdftex.def Info: ReportFiles/DPA.png used on input line 53.
+(pdftex.def)             Requested size: 228.8775pt x 198.75247pt.
+ [2 <./ReportFiles/SPA.png (PNG copy)> <./ReportFiles/DPA.png (PNG copy)>]
+<ReportFiles/TDPL_NAND_Timing.png, id=17, 546.54187pt x 685.05937pt>
+File: ReportFiles/TDPL_NAND_Timing.png Graphic file (type png)
+
+<use ReportFiles/TDPL_NAND_Timing.png>
+Package pdftex.def Info: ReportFiles/TDPL_NAND_Timing.png used on input line 77
+.
+(pdftex.def)             Requested size: 228.8775pt x 286.88672pt.
+
+<ReportFiles/TDPL_NAND.png, id=18, 666.23906pt x 687.31781pt>
+File: ReportFiles/TDPL_NAND.png Graphic file (type png)
+
+<use ReportFiles/TDPL_NAND.png>
+Package pdftex.def Info: ReportFiles/TDPL_NAND.png used on input line 83.
+(pdftex.def)             Requested size: 228.8775pt x 236.11809pt.
+
+<ReportFiles/CMOS_S-box_Power.png, id=19, 896.59969pt x 610.53094pt>
+File: ReportFiles/CMOS_S-box_Power.png Graphic file (type png)
+
+<use ReportFiles/CMOS_S-box_Power.png>
+Package pdftex.def Info: ReportFiles/CMOS_S-box_Power.png used on input line 92
+.
+(pdftex.def)             Requested size: 228.8775pt x 155.84636pt.
+
+<ReportFiles/TDPL_S-box_Power.png, id=20, 910.90312pt x 632.3625pt>
+File: ReportFiles/TDPL_S-box_Power.png Graphic file (type png)
+
+<use ReportFiles/TDPL_S-box_Power.png>
+Package pdftex.def Info: ReportFiles/TDPL_S-box_Power.png used on input line 99
+.
+(pdftex.def)             Requested size: 228.8775pt x 158.8911pt.
+ [3 <./ReportFiles/TDPL_NAND_Timing.png (PNG copy)>] <ReportFiles/ST-TDPL_NAND.
+png, id=25, 963.6pt x 613.54219pt>
+File: ReportFiles/ST-TDPL_NAND.png Graphic file (type png)
+
+<use ReportFiles/ST-TDPL_NAND.png>
+Package pdftex.def Info: ReportFiles/ST-TDPL_NAND.png used on input line 110.
+(pdftex.def)             Requested size: 228.8775pt x 145.72714pt.
+
+<ReportFiles/ST-TDPL_INV_Chain.png, id=26, 910.15031pt x 214.55156pt>
+File: ReportFiles/ST-TDPL_INV_Chain.png Graphic file (type png)
+
+<use ReportFiles/ST-TDPL_INV_Chain.png>
+Package pdftex.def Info: ReportFiles/ST-TDPL_INV_Chain.png used on input line 1
+19.
+(pdftex.def)             Requested size: 228.8775pt x 53.95203pt.
+
+<ReportFiles/ST-TDPL_NAND_Timing.png, id=27, 791.20593pt x 688.07062pt>
+File: ReportFiles/ST-TDPL_NAND_Timing.png Graphic file (type png)
+
+<use ReportFiles/ST-TDPL_NAND_Timing.png>
+Package pdftex.def Info: ReportFiles/ST-TDPL_NAND_Timing.png used on input line
+ 126.
+(pdftex.def)             Requested size: 228.8775pt x 199.0419pt.
+ [4 <./ReportFiles/TDPL_NAND.png (PNG copy)> <./ReportFiles/CMOS_S-box_Power.pn
+g (PNG copy)> <./ReportFiles/TDPL_S-box_Power.png (PNG copy)>]
+<ReportFiles/ST-TDPL_Energy.png, id=31, 1162.3425pt x 683.55376pt>
+File: ReportFiles/ST-TDPL_Energy.png Graphic file (type png)
+
+<use ReportFiles/ST-TDPL_Energy.png>
+Package pdftex.def Info: ReportFiles/ST-TDPL_Energy.png used on input line 139.
+
+(pdftex.def)             Requested size: 228.8775pt x 134.591pt.
+
+<ReportFiles/ST-TDPL_NED.png, id=32, 1109.64563pt x 678.28406pt>
+File: ReportFiles/ST-TDPL_NED.png Graphic file (type png)
+
+<use ReportFiles/ST-TDPL_NED.png>
+Package pdftex.def Info: ReportFiles/ST-TDPL_NED.png used on input line 146.
+(pdftex.def)             Requested size: 228.8775pt x 139.89781pt.
+ [5 <./ReportFiles/ST-TDPL_NAND.png (PNG copy)> <./ReportFiles/ST-TDPL_INV_Chai
+n.png (PNG copy)> <./ReportFiles/ST-TDPL_NAND_Timing.png (PNG copy)> <./ReportF
+iles/ST-TDPL_Energy.png (PNG copy)> <./ReportFiles/ST-TDPL_NED.png (PNG copy)>]
+
+<ReportFiles/ST-TDPL_Area.png, id=36, 1160.83687pt x 674.52pt>
+File: ReportFiles/ST-TDPL_Area.png Graphic file (type png)
+
+<use ReportFiles/ST-TDPL_Area.png>
+Package pdftex.def Info: ReportFiles/ST-TDPL_Area.png used on input line 155.
+(pdftex.def)             Requested size: 228.8775pt x 132.98723pt.
+
+<ReportFiles/TFET.png, id=37, 1184.92688pt x 688.07062pt>
+File: ReportFiles/TFET.png Graphic file (type png)
+
+<use ReportFiles/TFET.png>
+Package pdftex.def Info: ReportFiles/TFET.png used on input line 167.
+(pdftex.def)             Requested size: 228.8775pt x 132.89758pt.
+
+<ReportFiles/Energy_Recovery.png, id=38, 1131.47719pt x 634.62094pt>
+File: ReportFiles/Energy_Recovery.png Graphic file (type png)
+
+<use ReportFiles/Energy_Recovery.png>
+Package pdftex.def Info: ReportFiles/Energy_Recovery.png used on input line 178
+.
+(pdftex.def)             Requested size: 228.8775pt x 128.36478pt.
+
+<ReportFiles/SPGAL_Buffer.png, id=39, 1377.64688pt x 548.0475pt>
+File: ReportFiles/SPGAL_Buffer.png Graphic file (type png)
+
+<use ReportFiles/SPGAL_Buffer.png>
+Package pdftex.def Info: ReportFiles/SPGAL_Buffer.png used on input line 185.
+(pdftex.def)             Requested size: 228.8775pt x 91.04276pt.
+ [6 <./ReportFiles/ST-TDPL_Area.png (PNG copy)> <./ReportFiles/TFET.png (PNG co
+py)> <./ReportFiles/Energy_Recovery.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 192.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+<ReportFiles/CML_TFET_XOR.png, id=43, 728.7225pt x 671.50874pt>
+File: ReportFiles/CML_TFET_XOR.png Graphic file (type png)
+
+<use ReportFiles/CML_TFET_XOR.png>
+Package pdftex.def Info: ReportFiles/CML_TFET_XOR.png used on input line 198.
+(pdftex.def)             Requested size: 228.8775pt x 210.90134pt.
+
+<ReportFiles/TFET_CML_Power.png, id=44, 901.86937pt x 684.30656pt>
+File: ReportFiles/TFET_CML_Power.png Graphic file (type png)
+
+<use ReportFiles/TFET_CML_Power.png>
+Package pdftex.def Info: ReportFiles/TFET_CML_Power.png used on input line 207.
+
+(pdftex.def)             Requested size: 228.8775pt x 173.6553pt.
+
+<ReportFiles/TFET_CML_XOR_Power.png, id=45, 1407.75937pt x 414.04688pt>
+File: ReportFiles/TFET_CML_XOR_Power.png Graphic file (type png)
+
+<use ReportFiles/TFET_CML_XOR_Power.png>
+Package pdftex.def Info: ReportFiles/TFET_CML_XOR_Power.png used on input line 
+213.
+(pdftex.def)             Requested size: 228.8775pt x 67.31656pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./ReportFiles/SPGAL_Buffer.png (PNG copy)> <./ReportFiles/CML_TFET_XOR.png
+ (PNG copy)>] <ReportFiles/SABL_XOR_Reference.png, id=50, 944.02687pt x 709.149
+37pt>
+File: ReportFiles/SABL_XOR_Reference.png Graphic file (type png)
+
+<use ReportFiles/SABL_XOR_Reference.png>
+Package pdftex.def Info: ReportFiles/SABL_XOR_Reference.png used on input line 
+223.
+(pdftex.def)             Requested size: 228.8775pt x 171.93063pt.
+
+<ReportFiles/DPDN_NAND_1Switch.png, id=51, 956.82469pt x 695.59875pt>
+File: ReportFiles/DPDN_NAND_1Switch.png Graphic file (type png)
+
+<use ReportFiles/DPDN_NAND_1Switch.png>
+Package pdftex.def Info: ReportFiles/DPDN_NAND_1Switch.png used on input line 2
+32.
+(pdftex.def)             Requested size: 228.8775pt x 166.38457pt.
+ [8 <./ReportFiles/TFET_CML_Power.png (PNG copy)> <./ReportFiles/TFET_CML_XOR_P
+ower.png (PNG copy)> <./ReportFiles/SABL_XOR_Reference.png (PNG copy)> <./Repor
+tFiles/DPDN_NAND_1Switch.png (PNG copy)>] <ReportFiles/DPDN_Single_Switch_Timin
+g.png, id=57, 904.1278pt x 678.28406pt>
+File: ReportFiles/DPDN_Single_Switch_Timing.png Graphic file (type png)
+
+<use ReportFiles/DPDN_Single_Switch_Timing.png>
+Package pdftex.def Info: ReportFiles/DPDN_Single_Switch_Timing.png used on inpu
+t line 241.
+(pdftex.def)             Requested size: 228.8775pt x 171.70264pt.
+
+<ReportFiles/DPDN_NAND_2Switch.png, id=58, 1379.1525pt x 480.29437pt>
+File: ReportFiles/DPDN_NAND_2Switch.png Graphic file (type png)
+
+<use ReportFiles/DPDN_NAND_2Switch.png>
+Package pdftex.def Info: ReportFiles/DPDN_NAND_2Switch.png used on input line 2
+50.
+(pdftex.def)             Requested size: 228.8775pt x 79.70685pt.
+
+<ReportFiles/DPDN_Two_Switch_Timing.png, id=59, 927.465pt x 701.62125pt>
+File: ReportFiles/DPDN_Two_Switch_Timing.png Graphic file (type png)
+
+<use ReportFiles/DPDN_Two_Switch_Timing.png>
+Package pdftex.def Info: ReportFiles/DPDN_Two_Switch_Timing.png used on input l
+ine 256.
+(pdftex.def)             Requested size: 228.8775pt x 173.14594pt.
+
+<ReportFiles/Classic_MTD.png, id=60, 937.25156pt x 702.37407pt>
+File: ReportFiles/Classic_MTD.png Graphic file (type png)
+
+<use ReportFiles/Classic_MTD.png>
+Package pdftex.def Info: ReportFiles/Classic_MTD.png used on input line 265.
+(pdftex.def)             Requested size: 228.8775pt x 171.5205pt.
+
+<ReportFiles/SABL_MTD.png, id=61, 934.24031pt x 698.61pt>
+File: ReportFiles/SABL_MTD.png Graphic file (type png)
+
+<use ReportFiles/SABL_MTD.png>
+Package pdftex.def Info: ReportFiles/SABL_MTD.png used on input line 271.
+(pdftex.def)             Requested size: 228.8775pt x 171.14496pt.
+
+<ReportFiles/DPDN_MTD.png, id=62, 932.73468pt x 688.82344pt>
+File: ReportFiles/DPDN_MTD.png Graphic file (type png)
+
+<use ReportFiles/DPDN_MTD.png>
+Package pdftex.def Info: ReportFiles/DPDN_MTD.png used on input line 277.
+(pdftex.def)             Requested size: 228.8775pt x 169.02072pt.
+ [9 <./ReportFiles/DPDN_Single_Switch_Timing.png (PNG copy)> <./ReportFiles/DPD
+N_NAND_2Switch.png (PNG copy)> <./ReportFiles/DPDN_Two_Switch_Timing.png (PNG c
+opy)>]
+<ReportFiles/Nano_NAND.png, id=67, 728.7225pt x 700.86844pt>
+File: ReportFiles/Nano_NAND.png Graphic file (type png)
+
+<use ReportFiles/Nano_NAND.png>
+Package pdftex.def Info: ReportFiles/Nano_NAND.png used on input line 289.
+(pdftex.def)             Requested size: 228.8775pt x 220.12236pt.
+ [10 <./ReportFiles/Classic_MTD.png (PNG copy)> <./ReportFiles/SABL_MTD.png (PN
+G copy)> <./ReportFiles/DPDN_MTD.png (PNG copy)> <./ReportFiles/Nano_NAND.png (
+PNG copy)>]
+<ReportFiles/Nano_Mismatched_Capacitance.png, id=71, 1114.91531pt x 652.68843pt
+>
+File: ReportFiles/Nano_Mismatched_Capacitance.png Graphic file (type png)
+ <use ReportFiles/Nano_Mismatched_Capacitance.png>
+Package pdftex.def Info: ReportFiles/Nano_Mismatched_Capacitance.png used on in
+put line 302.
+(pdftex.def)             Requested size: 228.8775pt x 133.98126pt.
+ [11 <./ReportFiles/Nano_Mismatched_Capacitance.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[13
+
+] (ReportFiles/Report.aux) ) 
+Here is how much of TeX's memory you used:
+ 13528 strings out of 493029
+ 275443 string characters out of 6136234
+ 291376 words of memory out of 5000000
+ 16915 multiletter control sequences out of 15000+600000
+ 41041 words of font info for 98 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,7n,42p,10420b,744s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base
+/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
+imes/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on ReportFiles/Report.pdf (13 pages, 5544653 bytes).
+PDF statistics:
+ 116 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+
